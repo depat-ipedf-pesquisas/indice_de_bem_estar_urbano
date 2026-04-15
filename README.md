@@ -64,10 +64,6 @@ Segue o descritivo das pastas e dos arquivos do repositório:
 
 ---
 
-**renv/**: diretório gerado automaticamente pelo pacote `renv`, contendo os arquivos necessários para garantir a reprodutibilidade do ambiente computacional.
-
----
-
 **outputs/**: utilizado para armazenar saídas analíticas adicionais, como tabelas ou bases exportadas.
 
 **outputs/figuras/**: diretório com os produtos gráficos gerados pelos scripts, incluindo:
